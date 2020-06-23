@@ -78,7 +78,7 @@ img {
 
 .slider-button-item-left {
   float: left;
-  background-image: url('../icon/left\ arrow.png');
+  background-image: url('../icon/icon-left-arrow.png');
   background-position: center;
 }
 
@@ -97,7 +97,7 @@ img {
 
 .slider-button-item-right {
   float: right;
-  background-image: url('../icon/right\ arrow.png');
+  background-image: url('../icon/icon-right-arrow.png');
   background-position: left 50% center;
 }
 .inner {
@@ -124,7 +124,7 @@ img {
   position: absolute;
   top: 50%;
   left: 50%;
-  transform: translate(-50%, -20%);
+  transform: translate(-50%, -50%);
 }
 
 .heading {
