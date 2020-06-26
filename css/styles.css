@@ -327,6 +327,7 @@ button {
   border: 1px solid white;
   background-position: center;
   background-repeat: no-repeat;
+  cursor: pointer;
 }
 
 .button-list-item-icon-basket {
